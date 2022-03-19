@@ -10,4 +10,3 @@ int main(int argc, char const *argv[])
     sleep(atoi(argv[1]));
     exit(0);
 }
-
